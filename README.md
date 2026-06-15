@@ -23,7 +23,10 @@ This project presents an interactive Power BI dashboard developed to analyze piz
 - Tracked revenue and order performance through KPIs.
 
 ## Dashboard Preview
+### Dashboard 1: Sales Performance Overview
 <img width="1241" height="675" alt="Screenshot 2026-06-15 203157" src="https://github.com/user-attachments/assets/a5520431-534b-475e-94f3-c225fdb86445" />
+
+### Dashboard 2: Best & Worst Sellers Analysis
 <img width="1237" height="670" alt="Screenshot 2026-06-15 203126" src="https://github.com/user-attachments/assets/a2af36fe-0a3c-46cc-9afc-ffa0952be9be" />
 
 ## Project Files
